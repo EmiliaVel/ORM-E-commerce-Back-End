@@ -24,3 +24,4 @@ const seedCategories = () => Category.bulkCreate(categoryData, {
 });
 
 module.exports = seedCategories;
+
